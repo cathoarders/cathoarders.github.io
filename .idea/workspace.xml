@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6da59d27-b78f-4715-9d95-3f3e357b027f" name="Default Changelist" comment="initialized index.html">
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/contact_me.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/contact_me.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -12,14 +12,36 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="487">
-              <caret line="61" column="69" selection-start-line="61" selection-start-column="69" selection-end-line="61" selection-end-column="69" />
+            <state relative-caret-position="565">
+              <caret line="719" column="37" lean-forward="true" selection-start-line="719" selection-start-column="37" selection-end-line="719" selection-end-column="37" />
               <folding>
                 <element signature="n#section#0;n#body#0;n#html#0;n#!!top" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/js/contact_me.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="286">
+              <caret line="22" column="14" selection-start-line="22" selection-start-column="14" selection-end-line="22" selection-end-column="14" />
+              <folding>
+                <element signature="e#76#83#1" expanded="true" />
+                <element signature="e#76#83#1" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mail/contact_me.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="12" column="53" selection-start-line="12" selection-start-column="53" selection-end-line="12" selection-end-column="53" />
             </state>
           </provider>
         </entry>
@@ -45,6 +67,7 @@
       <find>dc3545</find>
       <find>bd2130</find>
       <find>team</find>
+      <find>sentMessage</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -59,6 +82,7 @@
         <option value="$PROJECT_DIR$/mail/contact_me.php" />
         <option value="$PROJECT_DIR$/css/agency.css" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/js/contact_me.js" />
       </list>
     </option>
   </component>
@@ -82,6 +106,11 @@
             <path>
               <item name="cathoarders.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="cathoarders.github.io" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cathoarders.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cathoarders.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="mail" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="cathoarders.github.io" type="b2602c69:ProjectViewProjectNode" />
@@ -129,7 +158,7 @@
       <updated>1561241579582</updated>
       <workItem from="1561241582191" duration="847000" />
       <workItem from="1561258714786" duration="8752000" />
-      <workItem from="1561300191117" duration="31000" />
+      <workItem from="1561300191117" duration="516000" />
     </task>
     <task id="LOCAL-00001" summary="initialized index.html">
       <created>1561241913273</created>
@@ -156,7 +185,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9630000" />
+    <option name="totallyTimeSpent" value="10115000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -213,13 +242,6 @@
         <state relative-caret-position="-149" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mail/contact_me.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="53" selection-start-line="12" selection-start-column="53" selection-end-line="12" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/gulpfile.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -237,12 +259,30 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/mail/contact_me.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="53" selection-start-line="12" selection-start-column="53" selection-end-line="12" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="487">
-          <caret line="61" column="69" selection-start-line="61" selection-start-column="69" selection-end-line="61" selection-end-column="69" />
+        <state relative-caret-position="565">
+          <caret line="719" column="37" lean-forward="true" selection-start-line="719" selection-start-column="37" selection-end-line="719" selection-end-column="37" />
           <folding>
             <element signature="n#section#0;n#body#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/contact_me.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="22" column="14" selection-start-line="22" selection-start-column="14" selection-end-line="22" selection-end-column="14" />
+          <folding>
+            <element signature="e#76#83#1" expanded="true" />
+            <element signature="e#76#83#1" expanded="true" />
           </folding>
         </state>
       </provider>
